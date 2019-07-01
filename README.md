@@ -1,6 +1,6 @@
 # walmart
 
-# Technical Requirements:
+#Technical Requirements
 
 * The matching service implementation should be written in Java preferably using a messaging solution
 * The solution and tests should build and execute entirely via the command line using either Maven or Gradle as the build tool
@@ -10,8 +10,7 @@
 interested in seeing how you design, code, and test software.
 * You will need to implement the following interface. The design of the Technician and Criteria object is entirely up to you
 
-
-#Implementation :
+#Implementation
 
 There are 4 processes creating the Issues in a fixed intervals.
 There will be N number of consumers (Technisians ) working on the issues.
